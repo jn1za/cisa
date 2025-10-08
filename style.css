@@ -29,6 +29,13 @@
     color: white;
 }
 
+#three-nav .dropdown:hover{
+    text-decoration: underline;
+    text-decoration-color: #7bccf0;
+    text-decoration-thickness: 5px;
+    text-underline-offset: 17px;
+}
+
 #three-nav {
     background-color: #005288;
     color: white;
@@ -78,4 +85,8 @@
     font-family: sans-serif;
     background-color: #1577a2;
     margin-top: 20px;
+}
+
+#ft {
+    background-color: #005288;
 }
