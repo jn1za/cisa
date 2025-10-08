@@ -25,6 +25,12 @@
     border-radius: 5px;
 }
 
+#one-nav .btn.btn-primary:hover{
+    background-color: white !important;
+    border-color: black !important;
+    color: black !important;
+}
+
 #three-nav .dropdown{
     color: white;
 }
@@ -89,4 +95,18 @@
 
 #ft {
     background-color: #005288;
+    padding-top: 30px;
+    padding-bottom: 120px;
+    color: white;
+}
+
+#underlined {
+    text-decoration: underline;
+    text-decoration-color: white;
+    color: white;
+    font-size: small;
+}
+
+#underlined .spaced {
+    margin-bottom: 20px;
 }
